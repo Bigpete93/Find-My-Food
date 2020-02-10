@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#9A9A9A</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="ButtonOn">#EB5132</color>
+    <color name="ButtonOff">#8C311F</color>
+    <color name="ButtonOn2">#BB3448</color>
+    <color name="ButtonOff2">#b8b4b2</color>
+    <color name="RedLogo">#FF9C02</color>
+
+    <color name="MainLogo">#FF7402</color>
+
+</resources>

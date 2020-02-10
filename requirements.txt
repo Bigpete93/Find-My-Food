@@ -1,0 +1,31 @@
+Requirements:
+
+General Software
+	Designed for API 24 forward 
+	Must be connected to internet, alerts when not 
+	Respond to buttons 
+	Efficient
+Informational 
+	Uses proper Query to Google X 
+	JSon output
+		Name
+		Address
+		Hours
+		Rating 
+		Price Level 
+	Able to store 500 JSON files
+Technical
+	Array of restaurants shown 
+	Filter to price 
+	Search radius 1, 5, 10, 25 miles
+	Published to playstore
+Visual
+	Conform to color psychology 
+	Filter's visible 
+	Navigation is intuitive 
+	Text is readable
+	--
+	Visually appealing 
+	Text doesn't run off screen
+	Variety of mobile devices
+	

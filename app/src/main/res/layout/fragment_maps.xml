@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:id="@+id/mapContainer"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context="fmf.findmyfood.Fragments.MapsFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+    <Button
+            android:id="@+id/backButt"
+            android:layout_width="wrap_content"
+            android:layout_height="58dp"
+            android:backgroundTint="@color/ButtonOn"
+            android:text="Back" />
+
+
+    <com.google.android.gms.maps.MapView
+            android:id="@+id/MapView"
+            android:name="com.example.findmyfood.Fragments.MapsFragment"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+</FrameLayout>
